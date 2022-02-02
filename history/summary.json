@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
+    "name": "Wtw",
+    "url": "https://affinitytechnology.willistowerswatson.com/salesv2/?sname=uala&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
+    "icon": "https://favicons.githubusercontent.com/affinitytechnology.willistowerswatson.com",
+    "slug": "wtw",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 126,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "time": 655,
+    "timeDay": 655,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {}
   }
 ]
