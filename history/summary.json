@@ -1,22 +1,22 @@
 [
   {
     "name": "Wtw",
-    "url": "https://affinitytechnology.willistowerswatson.co",
-    "icon": "https://favicons.githubusercontent.com/affinitytechnology.willistowerswatson.co",
+    "url": "https://affinitytechnology.willistowerswatson.com/salesv2/?sname=uala&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
+    "icon": "https://favicons.githubusercontent.com/affinitytechnology.willistowerswatson.com",
     "slug": "wtw",
-    "status": "down",
-    "uptime": "96.46%",
-    "uptimeDay": "96.46%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "96.46%",
-    "time": 655,
-    "timeDay": 655,
-    "timeWeek": 655,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "status": "up",
+    "uptime": "52.51%",
+    "uptimeDay": "52.51%",
+    "uptimeWeek": "52.51%",
+    "uptimeMonth": "52.51%",
+    "uptimeYear": "52.51%",
+    "time": 649,
+    "timeDay": 649,
+    "timeWeek": 649,
+    "timeMonth": 649,
+    "timeYear": 649,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-02": 4
     }
   }
 ]
