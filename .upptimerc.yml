@@ -4,8 +4,9 @@ repo: statuspage # The name of this repository
 
 sites:
   - name: Wtw
-    url: https://affinitytechnology.willistowerswatson.com/salesv2/?sname=uala&uid=da83b849-37eb-4d65-ba7b-813b5bd401da
-   
+    #url: https://affinitytechnology.willistowerswatson.com/salesv2/?sname=uala&uid=da83b849-37eb-4d65-ba7b-813b5bd401da
+    url: https://affinitytechnology.willistowerswatson.co
+    
 assignees: juangravano
 
 status-website:
