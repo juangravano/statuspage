@@ -4,107 +4,119 @@
     "url": "https://affinitytechnology.willistowerswatson.com/salesv2/?sname=uala&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
     "icon": "https://favicons.githubusercontent.com/affinitytechnology.willistowerswatson.com",
     "slug": "wtw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 609,
-    "timeDay": 540,
+    "timeDay": 589,
     "timeWeek": 643,
     "timeMonth": 609,
     "timeYear": 609,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   },
   {
     "name": "wtw - salud",
     "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=498&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
     "icon": "https://favicons.githubusercontent.com/affinitytechnology.willistowerswatson.com",
     "slug": "wtw-salud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 132,
+    "time": 140,
+    "timeDay": 138,
     "timeWeek": 148,
-    "timeMonth": 139,
-    "timeYear": 139,
-    "dailyMinutesDown": {}
+    "timeMonth": 140,
+    "timeYear": 140,
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   },
   {
     "name": "wtw - celular",
     "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=494&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
     "icon": "https://favicons.githubusercontent.com/affinitytechnology.willistowerswatson.com",
     "slug": "wtw-celular",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 131,
-    "timeWeek": 154,
+    "timeDay": 141,
+    "timeWeek": 153,
     "timeMonth": 143,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   },
   {
     "name": "wtw - hogar",
     "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=495&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
     "icon": "https://favicons.githubusercontent.com/affinitytechnology.willistowerswatson.com",
     "slug": "wtw-hogar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 131,
-    "timeWeek": 148,
+    "timeDay": 137,
+    "timeWeek": 147,
     "timeMonth": 140,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   },
   {
     "name": "wtw - mascota",
     "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=496&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
     "icon": "https://favicons.githubusercontent.com/affinitytechnology.willistowerswatson.com",
     "slug": "wtw-mascota",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 134,
+    "timeDay": 139,
     "timeWeek": 148,
     "timeMonth": 139,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   },
   {
     "name": "wtw - movilidad",
     "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=553&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
     "icon": "https://favicons.githubusercontent.com/affinitytechnology.willistowerswatson.com",
     "slug": "wtw-movilidad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 132,
-    "timeWeek": 151,
+    "timeDay": 138,
+    "timeWeek": 150,
     "timeMonth": 141,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   }
 ]
