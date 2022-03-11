@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/affinitytechnology.willistowerswatson.com",
     "slug": "wtw",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.76%",
-    "time": 620,
-    "timeDay": 523,
-    "timeWeek": 659,
-    "timeMonth": 630,
-    "timeYear": 620,
+    "uptimeYear": "99.77%",
+    "time": 619,
+    "timeDay": 579,
+    "timeWeek": 667,
+    "timeMonth": 628,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2022-02-26": 121
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.76%",
-    "time": 140,
-    "timeDay": 125,
-    "timeWeek": 132,
+    "time": 139,
+    "timeDay": 130,
+    "timeWeek": 131,
     "timeMonth": 140,
-    "timeYear": 140,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2022-02-26": 121
     }
@@ -51,8 +51,8 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.76%",
     "time": 142,
-    "timeDay": 124,
-    "timeWeek": 132,
+    "timeDay": 153,
+    "timeWeek": 134,
     "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.76%",
-    "time": 141,
-    "timeDay": 129,
-    "timeWeek": 134,
+    "time": 140,
+    "timeDay": 134,
+    "timeWeek": 135,
     "timeMonth": 141,
-    "timeYear": 141,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2022-02-26": 121
     }
@@ -91,9 +91,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.76%",
     "time": 139,
-    "timeDay": 128,
+    "timeDay": 133,
     "timeWeek": 133,
-    "timeMonth": 140,
+    "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2022-02-26": 121
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.76%",
-    "time": 141,
-    "timeDay": 133,
-    "timeWeek": 136,
+    "time": 140,
+    "timeDay": 130,
+    "timeWeek": 135,
     "timeMonth": 141,
-    "timeYear": 141,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2022-02-26": 121
     }
