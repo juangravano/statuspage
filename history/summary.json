@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/affinitytechnology.willistowerswatson.com",
     "slug": "wtw",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 613,
-    "timeDay": 674,
-    "timeWeek": 582,
+    "timeDay": 624,
+    "timeWeek": 596,
     "timeMonth": 620,
     "timeYear": 613,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.82%",
-    "time": 139,
-    "timeDay": 144,
-    "timeWeek": 138,
+    "time": 140,
+    "timeDay": 150,
+    "timeWeek": 142,
     "timeMonth": 140,
-    "timeYear": 139,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2022-02-26": 121
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.82%",
     "time": 141,
-    "timeDay": 145,
-    "timeWeek": 138,
-    "timeMonth": 142,
+    "timeDay": 152,
+    "timeWeek": 142,
+    "timeMonth": 141,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2022-02-26": 121
@@ -72,7 +72,7 @@
     "uptimeYear": "99.82%",
     "time": 140,
     "timeDay": 146,
-    "timeWeek": 137,
+    "timeWeek": 139,
     "timeMonth": 141,
     "timeYear": 140,
     "dailyMinutesDown": {
@@ -92,7 +92,7 @@
     "uptimeYear": "99.82%",
     "time": 139,
     "timeDay": 143,
-    "timeWeek": 139,
+    "timeWeek": 141,
     "timeMonth": 140,
     "timeYear": 139,
     "dailyMinutesDown": {
@@ -111,8 +111,8 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.82%",
     "time": 140,
-    "timeDay": 143,
-    "timeWeek": 139,
+    "timeDay": 148,
+    "timeWeek": 142,
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
