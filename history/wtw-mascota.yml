@@ -1,7 +1,7 @@
 url: https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=496&uid=da83b849-37eb-4d65-ba7b-813b5bd401da
-status: up
-code: 200
-responseTime: 145
-lastUpdated: 2022-03-25T23:09:27.844Z
+status: down
+code: 502
+responseTime: 126
+lastUpdated: 2022-03-26T04:26:06.328Z
 startTime: Thu Feb 03 2022 14:00:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
