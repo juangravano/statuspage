@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
     "slug": "wtw",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "92.97%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.72%",
     "time": 550,
-    "timeDay": 592,
-    "timeWeek": 574,
-    "timeMonth": 512,
+    "timeDay": 580,
+    "timeWeek": 600,
+    "timeMonth": 514,
     "timeYear": 545,
     "dailyMinutesDown": {
       "2023-02-25": 101,
@@ -29,8 +29,7 @@
       "2022-06-18": 120,
       "2022-05-21": 164,
       "2022-04-23": 61,
-      "2022-03-26": 177,
-      "2022-02-26": 121
+      "2022-03-26": 177
     }
   },
   {
@@ -39,15 +38,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
     "slug": "wtw-salud",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "92.97%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.72%",
     "time": 124,
-    "timeDay": 139,
-    "timeWeek": 123,
-    "timeMonth": 122,
+    "timeDay": 138,
+    "timeWeek": 129,
+    "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2023-02-25": 101,
@@ -63,8 +62,7 @@
       "2022-06-18": 120,
       "2022-05-21": 164,
       "2022-04-23": 61,
-      "2022-03-26": 177,
-      "2022-02-26": 121
+      "2022-03-26": 177
     }
   },
   {
@@ -73,14 +71,47 @@
     "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
     "slug": "wtw-celular",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "92.97%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.72%",
     "time": 122,
     "timeDay": 146,
-    "timeWeek": 125,
+    "timeWeek": 131,
+    "timeMonth": 117,
+    "timeYear": 121,
+    "dailyMinutesDown": {
+      "2023-02-25": 101,
+      "2023-01-14": 147,
+      "2022-12-03": 173,
+      "2022-12-02": 94,
+      "2022-12-01": 5,
+      "2022-11-05": 70,
+      "2022-10-08": 43,
+      "2022-09-10": 28,
+      "2022-08-13": 38,
+      "2022-07-16": 137,
+      "2022-06-18": 120,
+      "2022-05-21": 164,
+      "2022-04-23": 61,
+      "2022-03-26": 177
+    }
+  },
+  {
+    "name": "wtw - hogar",
+    "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=495&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
+    "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
+    "slug": "wtw-hogar",
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "92.97%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.72%",
+    "time": 122,
+    "timeDay": 140,
+    "timeWeek": 129,
     "timeMonth": 116,
     "timeYear": 121,
     "dailyMinutesDown": {
@@ -97,42 +128,7 @@
       "2022-06-18": 120,
       "2022-05-21": 164,
       "2022-04-23": 61,
-      "2022-03-26": 177,
-      "2022-02-26": 121
-    }
-  },
-  {
-    "name": "wtw - hogar",
-    "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=495&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
-    "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
-    "slug": "wtw-hogar",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "92.97%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.72%",
-    "time": 122,
-    "timeDay": 138,
-    "timeWeek": 122,
-    "timeMonth": 114,
-    "timeYear": 121,
-    "dailyMinutesDown": {
-      "2023-02-25": 101,
-      "2023-01-14": 147,
-      "2022-12-03": 173,
-      "2022-12-02": 94,
-      "2022-12-01": 5,
-      "2022-11-05": 70,
-      "2022-10-08": 43,
-      "2022-09-10": 28,
-      "2022-08-13": 38,
-      "2022-07-16": 137,
-      "2022-06-18": 120,
-      "2022-05-21": 164,
-      "2022-04-23": 61,
-      "2022-03-26": 177,
-      "2022-02-26": 121
+      "2022-03-26": 177
     }
   },
   {
@@ -148,8 +144,8 @@
     "uptimeYear": "99.72%",
     "time": 123,
     "timeDay": 137,
-    "timeWeek": 122,
-    "timeMonth": 121,
+    "timeWeek": 128,
+    "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2023-02-25": 101,
@@ -165,8 +161,7 @@
       "2022-06-18": 120,
       "2022-05-21": 164,
       "2022-04-23": 61,
-      "2022-03-26": 177,
-      "2022-02-26": 121
+      "2022-03-26": 177
     }
   },
   {
@@ -181,9 +176,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.72%",
     "time": 121,
-    "timeDay": 138,
-    "timeWeek": 122,
-    "timeMonth": 115,
+    "timeDay": 140,
+    "timeWeek": 129,
+    "timeMonth": 116,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2023-02-25": 101,
@@ -199,8 +194,7 @@
       "2022-06-18": 120,
       "2022-05-21": 164,
       "2022-04-23": 61,
-      "2022-03-26": 177,
-      "2022-02-26": 121
+      "2022-03-26": 177
     }
   }
 ]
