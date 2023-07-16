@@ -10,10 +10,10 @@
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.72%",
-    "time": 528,
-    "timeDay": 379,
-    "timeWeek": 481,
-    "timeMonth": 473,
+    "time": 527,
+    "timeDay": 402,
+    "timeWeek": 478,
+    "timeMonth": 476,
     "timeYear": 520,
     "dailyMinutesDown": {
       "2023-07-15": 64,
@@ -29,8 +29,7 @@
       "2022-11-05": 70,
       "2022-10-08": 43,
       "2022-09-10": 28,
-      "2022-08-13": 38,
-      "2022-07-16": 137
+      "2022-08-13": 38
     }
   },
   {
@@ -45,8 +44,8 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.72%",
     "time": 120,
-    "timeDay": 90,
-    "timeWeek": 114,
+    "timeDay": 97,
+    "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 118,
     "dailyMinutesDown": {
@@ -63,8 +62,7 @@
       "2022-11-05": 70,
       "2022-10-08": 43,
       "2022-09-10": 28,
-      "2022-08-13": 38,
-      "2022-07-16": 137
+      "2022-08-13": 38
     }
   },
   {
@@ -79,42 +77,8 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.72%",
     "time": 117,
-    "timeDay": 91,
-    "timeWeek": 115,
-    "timeMonth": 111,
-    "timeYear": 115,
-    "dailyMinutesDown": {
-      "2023-07-15": 64,
-      "2023-06-17": 128,
-      "2023-05-20": 91,
-      "2023-04-22": 203,
-      "2023-03-25": 169,
-      "2023-02-25": 101,
-      "2023-01-14": 147,
-      "2022-12-03": 173,
-      "2022-12-02": 94,
-      "2022-12-01": 5,
-      "2022-11-05": 70,
-      "2022-10-08": 43,
-      "2022-09-10": 28,
-      "2022-08-13": 38,
-      "2022-07-16": 137
-    }
-  },
-  {
-    "name": "wtw - hogar",
-    "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=495&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
-    "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
-    "slug": "wtw-hogar",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "95.52%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.72%",
-    "time": 118,
-    "timeDay": 90,
-    "timeWeek": 113,
+    "timeDay": 97,
+    "timeWeek": 114,
     "timeMonth": 112,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -131,8 +95,40 @@
       "2022-11-05": 70,
       "2022-10-08": 43,
       "2022-09-10": 28,
-      "2022-08-13": 38,
-      "2022-07-16": 137
+      "2022-08-13": 38
+    }
+  },
+  {
+    "name": "wtw - hogar",
+    "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=495&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
+    "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
+    "slug": "wtw-hogar",
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.72%",
+    "time": 118,
+    "timeDay": 96,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 115,
+    "dailyMinutesDown": {
+      "2023-07-15": 64,
+      "2023-06-17": 128,
+      "2023-05-20": 91,
+      "2023-04-22": 203,
+      "2023-03-25": 169,
+      "2023-02-25": 101,
+      "2023-01-14": 147,
+      "2022-12-03": 173,
+      "2022-12-02": 94,
+      "2022-12-01": 5,
+      "2022-11-05": 70,
+      "2022-10-08": 43,
+      "2022-09-10": 28,
+      "2022-08-13": 38
     }
   },
   {
@@ -147,8 +143,8 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.72%",
     "time": 119,
-    "timeDay": 90,
-    "timeWeek": 115,
+    "timeDay": 97,
+    "timeWeek": 114,
     "timeMonth": 113,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -165,8 +161,7 @@
       "2022-11-05": 70,
       "2022-10-08": 43,
       "2022-09-10": 28,
-      "2022-08-13": 38,
-      "2022-07-16": 137
+      "2022-08-13": 38
     }
   },
   {
@@ -181,9 +176,9 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.72%",
     "time": 117,
-    "timeDay": 91,
-    "timeWeek": 114,
-    "timeMonth": 111,
+    "timeDay": 97,
+    "timeWeek": 112,
+    "timeMonth": 112,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2023-07-15": 64,
@@ -199,8 +194,7 @@
       "2022-11-05": 70,
       "2022-10-08": 43,
       "2022-09-10": 28,
-      "2022-08-13": 38,
-      "2022-07-16": 137
+      "2022-08-13": 38
     }
   }
 ]
