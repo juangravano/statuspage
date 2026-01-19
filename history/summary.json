@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "98.29%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "94.09%",
     "time": 542,
-    "timeDay": 656,
-    "timeWeek": 648,
-    "timeMonth": 589,
-    "timeYear": 550,
+    "timeDay": 435,
+    "timeWeek": 578,
+    "timeMonth": 591,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2026-01-11": 35,
       "2025-11-30": 58,
@@ -47,8 +47,7 @@
       "2025-04-28": 1440,
       "2025-04-27": 1161,
       "2025-03-30": 52,
-      "2025-03-02": 65,
-      "2025-01-19": 70
+      "2025-03-02": 65
     }
   },
   {
@@ -59,12 +58,12 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.83%",
     "time": 114,
-    "timeDay": 136,
-    "timeWeek": 127,
+    "timeDay": 101,
+    "timeWeek": 122,
     "timeMonth": 124,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -79,8 +78,7 @@
       "2025-05-18": 42,
       "2025-04-27": 54,
       "2025-03-30": 52,
-      "2025-03-02": 65,
-      "2025-01-19": 70
+      "2025-03-02": 65
     }
   },
   {
@@ -91,13 +89,13 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.83%",
     "time": 115,
-    "timeDay": 135,
-    "timeWeek": 126,
-    "timeMonth": 124,
+    "timeDay": 103,
+    "timeWeek": 121,
+    "timeMonth": 125,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2026-01-11": 35,
@@ -111,8 +109,7 @@
       "2025-05-18": 42,
       "2025-04-27": 54,
       "2025-03-30": 52,
-      "2025-03-02": 65,
-      "2025-01-19": 70
+      "2025-03-02": 65
     }
   },
   {
@@ -123,12 +120,12 @@
     "status": "up",
     "uptime": "94.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "78.74%",
     "time": 115,
-    "timeDay": 136,
-    "timeWeek": 126,
+    "timeDay": 103,
+    "timeWeek": 121,
     "timeMonth": 124,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -217,8 +214,7 @@
       "2025-04-28": 1440,
       "2025-04-27": 1161,
       "2025-03-30": 52,
-      "2025-03-02": 65,
-      "2025-01-19": 70
+      "2025-03-02": 65
     }
   },
   {
@@ -229,44 +225,12 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.83%",
     "time": 114,
-    "timeDay": 136,
-    "timeWeek": 126,
-    "timeMonth": 123,
-    "timeYear": 115,
-    "dailyMinutesDown": {
-      "2026-01-11": 35,
-      "2025-11-30": 58,
-      "2025-11-02": 105,
-      "2025-10-05": 62,
-      "2025-09-07": 106,
-      "2025-08-10": 33,
-      "2025-07-13": 63,
-      "2025-06-15": 150,
-      "2025-05-18": 42,
-      "2025-04-27": 54,
-      "2025-03-30": 52,
-      "2025-03-02": 65,
-      "2025-01-19": 70
-    }
-  },
-  {
-    "name": "wtw - movilidad",
-    "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=553&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
-    "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
-    "slug": "wtw-movilidad",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.83%",
-    "time": 114,
-    "timeDay": 136,
-    "timeWeek": 127,
+    "timeDay": 103,
+    "timeWeek": 121,
     "timeMonth": 124,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -281,8 +245,38 @@
       "2025-05-18": 42,
       "2025-04-27": 54,
       "2025-03-30": 52,
-      "2025-03-02": 65,
-      "2025-01-19": 70
+      "2025-03-02": 65
+    }
+  },
+  {
+    "name": "wtw - movilidad",
+    "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=553&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
+    "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
+    "slug": "wtw-movilidad",
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.83%",
+    "time": 115,
+    "timeDay": 103,
+    "timeWeek": 122,
+    "timeMonth": 125,
+    "timeYear": 115,
+    "dailyMinutesDown": {
+      "2026-01-11": 35,
+      "2025-11-30": 58,
+      "2025-11-02": 105,
+      "2025-10-05": 62,
+      "2025-09-07": 106,
+      "2025-08-10": 33,
+      "2025-07-13": 63,
+      "2025-06-15": 150,
+      "2025-05-18": 42,
+      "2025-04-27": 54,
+      "2025-03-30": 52,
+      "2025-03-02": 65
     }
   }
 ]
