@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.77%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "95.43%",
-    "time": 549,
-    "timeDay": 452,
-    "timeWeek": 579,
+    "uptimeYear": "95.70%",
+    "time": 550,
+    "timeDay": 612,
+    "timeWeek": 570,
     "timeMonth": 540,
     "timeYear": 560,
     "dailyMinutesDown": {
@@ -40,8 +40,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   },
   {
@@ -56,8 +55,8 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
     "time": 115,
-    "timeDay": 87,
-    "timeWeek": 129,
+    "timeDay": 134,
+    "timeWeek": 128,
     "timeMonth": 119,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -86,8 +85,8 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
     "time": 115,
-    "timeDay": 87,
-    "timeWeek": 129,
+    "timeDay": 134,
+    "timeWeek": 127,
     "timeMonth": 119,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -110,14 +109,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
     "slug": "wtw-hogar",
     "status": "up",
-    "uptime": "94.77%",
+    "uptime": "94.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.77%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "80.08%",
+    "uptimeYear": "80.35%",
     "time": 115,
-    "timeDay": 86,
-    "timeWeek": 129,
+    "timeDay": 134,
+    "timeWeek": 127,
     "timeMonth": 119,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -199,8 +198,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   },
   {
@@ -215,8 +213,8 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
     "time": 115,
-    "timeDay": 86,
-    "timeWeek": 128,
+    "timeDay": 134,
+    "timeWeek": 127,
     "timeMonth": 119,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -245,8 +243,8 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
     "time": 115,
-    "timeDay": 91,
-    "timeWeek": 130,
+    "timeDay": 135,
+    "timeWeek": 129,
     "timeMonth": 119,
     "timeYear": 116,
     "dailyMinutesDown": {
