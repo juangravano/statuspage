@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "96.25%",
+    "uptimeYear": "96.52%",
     "time": 551,
-    "timeDay": 663,
-    "timeWeek": 612,
-    "timeMonth": 545,
+    "timeDay": 519,
+    "timeWeek": 591,
+    "timeMonth": 539,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2026-04-26": 124,
@@ -37,8 +37,7 @@
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
-      "2025-05-07": 1440,
-      "2025-05-06": 1440
+      "2025-05-07": 1440
     }
   },
   {
@@ -53,9 +52,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
     "time": 115,
-    "timeDay": 86,
-    "timeWeek": 125,
-    "timeMonth": 118,
+    "timeDay": 108,
+    "timeWeek": 120,
+    "timeMonth": 117,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2026-04-26": 124,
@@ -83,9 +82,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
     "time": 115,
-    "timeDay": 87,
-    "timeWeek": 125,
-    "timeMonth": 118,
+    "timeDay": 108,
+    "timeWeek": 120,
+    "timeMonth": 117,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2026-04-26": 124,
@@ -107,15 +106,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
     "slug": "wtw-hogar",
     "status": "up",
-    "uptime": "94.78%",
+    "uptime": "94.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "80.90%",
+    "uptimeYear": "81.18%",
     "time": 115,
-    "timeDay": 89,
-    "timeWeek": 125,
-    "timeMonth": 118,
+    "timeDay": 108,
+    "timeWeek": 120,
+    "timeMonth": 117,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2026-04-26": 124,
@@ -193,8 +192,7 @@
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
-      "2025-05-07": 1440,
-      "2025-05-06": 1440
+      "2025-05-07": 1440
     }
   },
   {
@@ -209,9 +207,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
     "time": 115,
-    "timeDay": 88,
-    "timeWeek": 125,
-    "timeMonth": 118,
+    "timeDay": 108,
+    "timeWeek": 120,
+    "timeMonth": 117,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2026-04-26": 124,
@@ -239,9 +237,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.84%",
     "time": 115,
-    "timeDay": 87,
-    "timeWeek": 127,
-    "timeMonth": 119,
+    "timeDay": 108,
+    "timeWeek": 120,
+    "timeMonth": 117,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2026-04-26": 124,
