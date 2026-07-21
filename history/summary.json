@@ -4,17 +4,17 @@
     "url": "https://affinitytechnology.willistowerswatson.com/salesv2/?sname=uala&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
     "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
     "slug": "wtw",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.43%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.42%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.83%",
-    "time": 543,
-    "timeDay": 433,
-    "timeWeek": 417,
-    "timeMonth": 484,
-    "timeYear": 552,
+    "time": 542,
+    "timeDay": 382,
+    "timeWeek": 408,
+    "timeMonth": 479,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2025-08-10": 33,
       "2025-09-07": 106,
@@ -25,7 +25,8 @@
       "2026-03-29": 65,
       "2026-04-26": 124,
       "2026-05-17": 171,
-      "2026-07-19": 158
+      "2026-07-19": 158,
+      "2026-07-21": 1
     }
   },
   {
@@ -33,17 +34,17 @@
     "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=498&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
     "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
     "slug": "wtw-salud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.44%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.42%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.83%",
-    "time": 168,
-    "timeDay": 416,
-    "timeWeek": 389,
-    "timeMonth": 443,
-    "timeYear": 185,
+    "time": 169,
+    "timeDay": 415,
+    "timeWeek": 392,
+    "timeMonth": 442,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2025-08-10": 33,
       "2025-09-07": 106,
@@ -54,7 +55,8 @@
       "2026-03-29": 65,
       "2026-04-26": 124,
       "2026-05-17": 171,
-      "2026-07-19": 158
+      "2026-07-19": 158,
+      "2026-07-21": 1
     }
   },
   {
@@ -62,16 +64,16 @@
     "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=494&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
     "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
     "slug": "wtw-celular",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.44%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.43%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.83%",
-    "time": 168,
-    "timeDay": 404,
-    "timeWeek": 390,
-    "timeMonth": 445,
+    "time": 169,
+    "timeDay": 365,
+    "timeWeek": 384,
+    "timeMonth": 441,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2025-08-10": 33,
@@ -83,7 +85,8 @@
       "2026-03-29": 65,
       "2026-04-26": 124,
       "2026-05-17": 171,
-      "2026-07-19": 157
+      "2026-07-19": 157,
+      "2026-07-21": 1
     }
   },
   {
@@ -91,17 +94,17 @@
     "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=495&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
     "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
     "slug": "wtw-hogar",
-    "status": "up",
+    "status": "down",
     "uptime": "95.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.44%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.43%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.83%",
-    "time": 168,
-    "timeDay": 399,
-    "timeWeek": 417,
-    "timeMonth": 452,
-    "timeYear": 185,
+    "time": 169,
+    "timeDay": 368,
+    "timeWeek": 409,
+    "timeMonth": 449,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2025-08-10": 33,
       "2025-09-07": 106,
@@ -112,7 +115,8 @@
       "2026-03-29": 65,
       "2026-04-26": 124,
       "2026-05-17": 170,
-      "2026-07-19": 157
+      "2026-07-19": 157,
+      "2026-07-21": 1
     }
   },
   {
@@ -120,17 +124,17 @@
     "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=496&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
     "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
     "slug": "wtw-mascota",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.83%",
-    "time": 170,
-    "timeDay": 587,
-    "timeWeek": 456,
-    "timeMonth": 463,
-    "timeYear": 187,
+    "time": 171,
+    "timeDay": 503,
+    "timeWeek": 452,
+    "timeMonth": 462,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2025-08-10": 33,
       "2025-09-07": 106,
@@ -141,7 +145,8 @@
       "2026-03-29": 65,
       "2026-04-26": 124,
       "2026-05-17": 170,
-      "2026-07-19": 157
+      "2026-07-19": 157,
+      "2026-07-21": 1
     }
   },
   {
@@ -149,17 +154,17 @@
     "url": "https://affinitytechnology.willistowerswatson.com/salesv2/home/new-quote?sname=uala&pid=553&uid=da83b849-37eb-4d65-ba7b-813b5bd401da",
     "icon": "https://icons.duckduckgo.com/ip3/affinitytechnology.willistowerswatson.com.ico",
     "slug": "wtw-movilidad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.83%",
-    "time": 169,
-    "timeDay": 447,
-    "timeWeek": 382,
-    "timeMonth": 446,
-    "timeYear": 185,
+    "time": 170,
+    "timeDay": 498,
+    "timeWeek": 398,
+    "timeMonth": 449,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2025-08-10": 33,
       "2025-09-07": 106,
@@ -170,7 +175,8 @@
       "2026-03-29": 65,
       "2026-04-26": 124,
       "2026-05-17": 170,
-      "2026-07-19": 157
+      "2026-07-19": 157,
+      "2026-07-21": 0
     }
   }
 ]
